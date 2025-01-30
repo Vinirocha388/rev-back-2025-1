@@ -1,0 +1,25 @@
+{
+  "name": "rev-back-2025-1",
+  "version": "1.0.0",
+  "description": "Projeto de Revisão Back-End SENAI 2025",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinirocha388/rev-back-2025-1.git"
+  },
+  "keywords": [
+    "SENAI",
+    "Backend",
+    "NodeJs",
+    "JavaScript"
+  ],
+  "author": "Vinícius Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vinirocha388/rev-back-2025-1/issues"
+  },
+  "homepage": "https://github.com/Vinirocha388/rev-back-2025-1#readme"
+}
